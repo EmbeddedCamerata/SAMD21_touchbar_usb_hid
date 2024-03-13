@@ -1,0 +1,13 @@
+configName: default
+folderName: SAMD21_touchbar
+format_version: v1.0
+frameworkPath: /home/kafcoppelia/WORK/Applications/microchip/Harmony_v3
+processor: ATSAMD21G17D
+projectName: SAMD21_touchbar
+settings:
+  PackageFilter: ''
+  FORCE_OPTIMIZATION: 'false'
+  GENERATE_BACKUP: 'true'
+  TRUSTZONE: 'false'
+  MERGE_STRATEGY: USER_ALL
+  DFPPath: SAMD21_DFP/3.6.144
